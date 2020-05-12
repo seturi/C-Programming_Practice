@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\SwKim\Desktop\ing\대학\2\1학기\C-프로그래밍\연습_실습_과제\실습\Project200512\Practice6\main.c(19,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SwKim\Desktop\ing\대학\2\1학기\C-프로그래밍\연습_실습_과제\실습\Project200512\Practice6\main.c(37,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Practice6.vcxproj -> C:\Users\SwKim\Desktop\ing\대학\2\1학기\C-프로그래밍\연습_실습_과제\실습\Project200512\Debug\Practice6.exe
